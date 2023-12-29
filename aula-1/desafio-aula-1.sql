@@ -39,4 +39,3 @@ INSERT INTO autor(titulo, area, id_artigo) VALUES ('API', 'Ciência da Computaç
 INSERT INTO autor(titulo, area, id_artigo) VALUES ('Skinner', 'Psicologia', 3);
 INSERT INTO autor(titulo, area, id_artigo) VALUES ('Einstein', 'Física', 2);
 INSERT INTO autor(titulo, area, id_artigo) VALUES ('Power B.I', 'Ciência da Computação', 1);
-
